@@ -25,6 +25,7 @@ Applicant Features :
 dependencies uses:
 
 Riverpod - State management
+
 Fpdart - Error handling
 
 
@@ -33,10 +34,8 @@ Appwrite for backend
 
 This is the app UI. 
 
-![](assets/src/d.png)
-![](assets/src/e.png)
-![](assets/src/f.png)
-![](assets/src/g.png)
-![](assets/src/a.png)
-![](assets/src/b.png)
-![](assets/src/c.png)
+![](assets/scr/d.png)![](assets/scr/e.png)![](assets/scr/f.png)
+![](assets/scr/g.png)
+![](assets/scr/a.png)
+![](assets/scr/b.png)
+![](assets/scr/c.png)
