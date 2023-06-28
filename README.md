@@ -1,16 +1,36 @@
-# jobbhai
+# Job Bhai
 
-A new Flutter project.
+Job Bhai is an application that interconnected  recruiters and job applicants.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Feature
 
-A few resources to get you started if this is your first Flutter project:
+Recruiter Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Post Jobs
+- Active and Closed Jobs
+- View All Applicants
+- View Specific Applicant
+- Accept and Reject Applications
+- Insights
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Applicant Features :
+
+-Search for Jobs
+-View Specific Job
+-Apply for Jobs 
+-Saved Jobs
+-View Status of Applied Jobs
+
+dependencies uses:
+
+Riverpod - State management
+Fpdart - Error handling
+
+
+Appwrite for backend
+
+
+This is the app UI. 
+
+![](UI/moneybag.png)
