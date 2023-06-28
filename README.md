@@ -16,17 +16,17 @@ Recruiter Features:
 
 Applicant Features :
 
--Search for Jobs
--View Specific Job
--Apply for Jobs 
--Saved Jobs
--View Status of Applied Jobs
+- Search for Jobs
+- View Specific Job
+- Apply for Jobs 
+- Saved Jobs
+- View Status of Applied Jobs
 
 dependencies uses:
 
-Riverpod - State management
+- Riverpod - State management
 
-Fpdart - Error handling
+- Fpdart - Error handling
 
 
 Appwrite for backend
@@ -34,7 +34,9 @@ Appwrite for backend
 
 This is the app UI. 
 
-![](assets/scr/d.png)![](assets/scr/e.png)![](assets/scr/f.png)
+![1080](assets/scr/d.png | width=10)
+![](assets/scr/e.png)
+![](assets/scr/f.png)
 ![](assets/scr/g.png)
 ![](assets/scr/a.png)
 ![](assets/scr/b.png)
