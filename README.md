@@ -33,4 +33,10 @@ Appwrite for backend
 
 This is the app UI. 
 
-![](UI/moneybag.png)
+![](assets/src/d.png)
+![](assets/src/e.png)
+![](assets/src/f.png)
+![](assets/src/g.png)
+![](assets/src/a.png)
+![](assets/src/b.png)
+![](assets/src/c.png)
