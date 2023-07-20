@@ -34,10 +34,7 @@ Appwrite for backend
 
 This is the app UI. 
 
-![1080](assets/scr/d.png | width=10)
-![](assets/scr/e.png)
-![](assets/scr/f.png)
-![](assets/scr/g.png)
+
 ![](assets/scr/a.png)
 ![](assets/scr/b.png)
-![](assets/scr/c.png)
+
